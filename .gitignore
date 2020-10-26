@@ -1,0 +1,5 @@
+#Do not import modules
+node_modules
+
+#Never commit secrets
+.env
